@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chav0036
-- 👀 I’m interested in Web Designing
-- 🌱 I’m currently learning human centric design concepts
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Designing.
+- 🌱 I’m currently learning human centric design concepts.
+- 💞️ I’m looking to collaborate on web designing projects.
 - 📫 How to reach me? chav0036@algonquinlive.com
 
 <!---
